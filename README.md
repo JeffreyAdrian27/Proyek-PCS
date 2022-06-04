@@ -1,7 +1,0 @@
-# Proyek-PCS
-Username dan password karyawan
-id_karyawan - username - password
-KN1 - abke - a
-MM - mulz - mul
-TW - tw12 - twtw
-a - a - a
